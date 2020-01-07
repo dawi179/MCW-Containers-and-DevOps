@@ -1,5 +1,7 @@
 # Containers and DevOps
 
+This workshop has been deprecated.
+
 Fabrikam Medical Conferences provides conference web site services, tailored to the medical community. Their business has grown and the management of many instances of the code base and change cycle per tenant has gotten out of control.
 
 The goal of this workshop is to help them build a proof of concept (POC) that will migrate their code to a more manageable process that involves containerization of tenant code, a better DevOps workflow, and a simple lift-and-shift story for their database backend.
